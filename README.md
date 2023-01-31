@@ -8,3 +8,5 @@
 | 04 | Program to implement a Class and method with and without parameters and return value in java. |
 | 05 | Program to implement Default and Parameterizedconstructor in java. |
 | 06 | Program to implement Access modifiers in java. |
+| 07 | Program to implement Method Overloading in java. |
+| 08 | Program to implement the use of static keyword in java. |
